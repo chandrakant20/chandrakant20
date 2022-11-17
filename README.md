@@ -1,4 +1,4 @@
-- 👋 Hi, I’m chandrakant
+-👋 Hi, I’m chandrakant
 - Front end developer
 
 <!---
